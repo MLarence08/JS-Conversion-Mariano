@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.div-layout {
+    width: 190px; 
+    height: 30px;
+}
